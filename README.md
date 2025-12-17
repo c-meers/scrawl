@@ -1,4 +1,4 @@
-# Scrawl
+![Scrawl Title](https://cdn.cmeers.com/scrawl.png)
 
 This is a handwritten font - it isn't character-complete but has about everything you'd need to write text to communicate.
 
